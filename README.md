@@ -61,7 +61,5 @@ class Window(Frame):
         # self.t.delete(1.0, END)
         # for pp in soup.find_all('p'):
     #     self.t.insert("end", pp.text)
-
-
-root = Tk()
+    root = Tk()
 
